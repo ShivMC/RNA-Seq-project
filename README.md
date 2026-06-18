@@ -49,4 +49,4 @@ This project is for educational and research purposes.
 
 ## Author
 
-**Shivani Singh** — [ShivMC](https://github.com/ShivMC)
+**Shivani Pawar** — [ShivMC](https://github.com/ShivMC)
