@@ -1,0 +1,42 @@
+# Raw data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Binary alignment files
+*.bam
+*.sam
+*.cram
+
+# Large intermediate files
+*.gtf
+*.gff
+*.gff3
+
+# Results
+*.pdf
+*.png
+*.svg
+*.tiff
+*.jpg
+
+# R
+.RData
+.Rhistory
+.Rproj.user
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Conda environments
+envs/
+*.yml
+
+# System
+.DS_Store
+Thumbs.db
+*.log
