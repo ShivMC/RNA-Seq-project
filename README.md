@@ -43,9 +43,13 @@ cd RNA-Seq-project
 
 Each subdirectory contains its own README with detailed instructions. The main analysis workflow is documented in `workflow/`.
 
+## Confidentiality
+
+**CONFIDENTIAL** — This repository and its contents are confidential until publication. Unauthorized distribution or sharing is prohibited.
+
 ## License
 
-This project is for educational and research purposes.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Team
 
