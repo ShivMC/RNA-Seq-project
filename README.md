@@ -47,6 +47,10 @@ Each subdirectory contains its own README with detailed instructions. The main a
 
 This project is for educational and research purposes.
 
+## Team
+
+- **Shivani Pawar** - Project Lead
+
 ## Author
 
 **Shivani Pawar** - [ShivMC](https://github.com/ShivMC)
