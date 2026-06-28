@@ -28,9 +28,9 @@ This project is designed to:
 
 ### Prerequisites
 
-- **Tools**: FastQC, Trimmomatic, STAR/HISAT2, StringTie, featureCounts, DESeq2/edgeR
+- **Tools**: FastP,HISAT2, StringTie, featureCounts, DESeq2/edgeR
 - **Languages**: R (≥ 4.0), Python (≥ 3.8), Bash
-- **Package management**: Conda/Mamba environments recommended
+
 
 ### Installation
 
